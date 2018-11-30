@@ -2,7 +2,7 @@
 
 ## 2018-11-29 ##
 ### Added ###
-- Chapter 7 "Fundamental Java lib" example codes, some simple codes are excluded
+- Chapter 7 "Fundamental Java Libs" example codes, some simple codes are excluded
 
 ## 2018-11-04 ##
 ### Added ###
