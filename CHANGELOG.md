@@ -1,5 +1,10 @@
 # Crazy Java Practice Project #
 
+## 2018-12-17 ##
+### Added ###
+- Chapter 4 "Flow Control and Arrays" example codes, some simple codes are excluded
+- Chapter 15 "I/O" example codes, some simple codes are excluded
+
 ## 2018-12-04 ##
 ### Added ###
 - Chapter 14 "Annotations" example codes, some simple codes are excluded, 
