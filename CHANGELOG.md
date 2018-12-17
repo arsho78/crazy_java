@@ -1,9 +1,15 @@
 # Crazy Java Practice Project #
 
+<<<<<<< HEAD
 ## 2018-12-17 ##
 ### Added ###
 - Chapter 4 "Flow Control and Arrays" example codes, some simple codes are excluded
 - Chapter 15 "I/O" example codes, some simple codes are excluded
+=======
+## 2018-12-16 ##
+### Added ###
+- Chapter 16 "Multi Threads" example codes, some simple codes are excluded
+>>>>>>> 47f6a88ba121bc0d03de6e289924c7baf328c114
 
 ## 2018-12-04 ##
 ### Added ###
